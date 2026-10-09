@@ -1,0 +1,8 @@
+{
+  "name": "Official Apology Portal",
+  "description": "A cute, interactive pastel-pink multi-step apology portal with playful contracts, evasive buttons, bribe vouchers, and guilt meter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
